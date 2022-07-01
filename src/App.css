@@ -90,6 +90,14 @@ p{
   flex-direction: column;
   margin-top: 20px;
 }
+.col__4{
+  max-width: 23.333333%;
+  max-height: 50%;
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  flex-direction: column;
+}
 .component__space{
   padding: 100px 0px;
 }
@@ -136,6 +144,21 @@ button.btn {
 button.about.btn.pointer:hover {
   background: #fff;
   color: #000!important;
+}
+.f-content {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 4rem;
+  gap: 4rem;
+  color: white;
+}
+.f-icons {
+  display: flex;
+  gap: 2rem;
 }
 /* RESPONSIVE */
 @media only screen and (max-width: 768px){

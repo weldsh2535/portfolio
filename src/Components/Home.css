@@ -1,5 +1,5 @@
 .home__bg{
-    background-image: url(C:/pro/reactJSProject/myapp/src/img/bg1.jpg);
+    /* background-image: url(C:/pro/reactJSProject/myapp/src/img/bg.jpg); */
     background-color: rgb(10, 10, 10);
     background-size: cover;
 }

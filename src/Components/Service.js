@@ -36,14 +36,14 @@ function Service() {
               </div>
               <div className="service__meta">
                 <h1 className="service__text">UI/UX Design</h1>
-                <p className="p service__text p__color">
+                {/* <p className="p service__text p__color">
                   I throw myself down among the
                 </p>
                 <p className="p service__text p__color">
                   tall grass by the stream as I lie
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
-              </div>
+                <p className="p service__text p__color">close to the earth.</p>*/}
+              </div> 
             </div>
           </div>
 
@@ -68,13 +68,13 @@ function Service() {
               </div>
               <div className="service__meta">
                 <h1 className="service__text">Website Development</h1>
-                <p className="p service__text p__color">
+                {/* <p className="p service__text p__color">
                   I throw myself down among the
                 </p>
                 <p className="p service__text p__color">
                   tall grass by the stream as I lie
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">close to the earth.</p> */}
               </div>
             </div>
           </div>
@@ -100,13 +100,13 @@ function Service() {
               </div>
               <div className="service__meta">
                 <h1 className="service__text">Mobile App Development</h1>
-                <p className="p service__text p__color">
+                {/* <p className="p service__text p__color">
                   I throw myself down among the
                 </p>
                 <p className="p service__text p__color">
                   tall grass by the stream as I lie
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">close to the earth.</p> */}
               </div>
             </div>
           </div>
@@ -127,13 +127,13 @@ function Service() {
               </div>
               <div className="service__meta">
                 <h1 className="service__text">Testing</h1>
-                <p className="p service__text p__color">
+                {/* <p className="p service__text p__color">
                   I throw myself down among the
                 </p>
                 <p className="p service__text p__color">
                   tall grass by the stream as I lie
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">close to the earth.</p> */}
               </div>
             </div>
           </div>

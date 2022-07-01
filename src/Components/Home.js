@@ -31,9 +31,9 @@ function Home() {
               <a href="#Portfolio">
                 <li className="nav__items mx__15">Portfolio</li>
               </a>
-              <a href="#Blog">
+              {/* <a href="#Blog">
                 <li className="nav__items mx__15">Blog</li>
-              </a>
+              </a> */}
               <a href="#Contact">
                 <li className="nav__items mx__15">Contact</li>
               </a>
@@ -70,9 +70,9 @@ function Home() {
             <li className="sideNavbar">
               <a href="#portfolio">Portfolio</a>
             </li>
-            <li className="sideNavbar">
+            {/* <li className="sideNavbar">
               <a href="#blog">Blog</a>
-            </li>
+            </li> */}
             <li className="sideNavbar">
               <a href="#contact">Contact</a>
             </li>
